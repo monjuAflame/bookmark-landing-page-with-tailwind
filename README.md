@@ -1,6 +1,8 @@
 # bookmark-landing-page-with-tailwind
 ## Tailwind CSS v2.2.15
 
+ALL Layout Responsive.
+
 # use
 
 npm install
